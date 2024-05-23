@@ -32,12 +32,6 @@ public class Main {
 
         if(opcao.toLowerCase().contains("car")){
             endereco = URL_PADRAO+"carros/marcas";
-//            String carros = consumo.obterDados(endereco);
-//            System.out.println(carros);
-//            List<Object> marcas  = conversor.obterDadosLista(carros, DadosMarca);
-//            System.out.println("Digite o codigo da Marca: ");
-//            String codigoMarca = leitura.nextLine();
-//            endereco = URL_PADRAO+"carros/marcas/"+codigoMarca+"/modelos";
         } else if(opcao.toLowerCase().contains("caminh")){
             endereco = URL_PADRAO+"caminhoes/marcas";
         } else{
