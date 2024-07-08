@@ -1,4 +1,4 @@
-# fipeAPP
+# FipeAPP
 
 O **fipeAPP** é um aplicativo Java que permite aos usuários consultar preços médios de veículos com base na **Tabela Fipe**. A **Tabela Fipe** é uma referência importante para negociações e avaliações de veículos no mercado nacional. Vamos explorar os detalhes:
 
